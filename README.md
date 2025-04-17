@@ -106,7 +106,7 @@ This project is licensed under the [MIT License](https://opensource.org/licenses
 
 A big thank you to:
 
-- DeepLearning.AI, for this course of **"Introduction to Generative AI for Software Development"**. 🎓
+- DeepLearning.AI, for this course of **"Team Software Engineering with AI"**. 🎓
 - The Instructor [Laurence Moroney](https://www.linkedin.com/in/laurence-moroney/) for their excellent teaching
 and insights. 👨‍🏫
 - Open-source libraries and tools like Python, Jupyter, and NLTK that made this project possible. 🛠️
