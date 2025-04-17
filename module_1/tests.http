@@ -1,0 +1,40 @@
+# Lab 1 - Flask API
+
+###
+
+GET 127.0.0.1:5000/
+Content-Type: application/json
+
+
+###
+
+POST http://127.0.0.1:5000/user
+Content-Type: application/json
+
+{
+  "username": "testuser",
+  "password": "securepassword"
+}
+
+###
+
+GET 127.0.0.1:5000/users
+
+###
+
+GET http://localhost:5000/user/1
+Content-Type: application/json
+
+###
+
+PUT http://localhost:5000/user/1
+Content-Type: application/json
+
+{
+  "username": "testuser",
+  "password": "newsecurepassword"
+}
+
+###
+
+DELETE http://localhost:5000/user/1
